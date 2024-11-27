@@ -37,7 +37,7 @@ instrutores apenas.
 
 ### Instrutor
 
-####Autorização
+#### Autorização
 Após passar pela autencicação de dois factores o instrutor é autorizado apenas a ter acesso completo das
 regras de gestão e avalição dos alunos subscritos nos cursos por ele criado, cadastro de modulos, aulas, 
 mareial de apoio,quizzes e questionários.
