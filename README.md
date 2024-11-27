@@ -4,7 +4,7 @@
 # Descrição
 
 O uso de tecologias no nosso país tende a ganhar mais aceitação 
-no seio da comunidade como na educação, saúde e demais sectores. 
+no meio da comunidade como na educação, saúde e demais sectores. 
 Na área educacional, concretamente no ensino á distância tem se 
 enfrentado alguns defasios como: garantir um equilibrio de nivel 
 de assimilação de conteúdos em todos os alunos onde o plano temático
@@ -21,6 +21,11 @@ zonas urbanas nos dias de alguns encontros em algumas plataformas de salas onlin
 por isso surge a ideia de se implementar um  sistema de  cursos online (Luro), onde os 
 usuários tem a possibilidade de explora-lo em três níveis de acesso: 
 Administrador, Instrutor, Estudante
+Baseado na metotologia Scrum permitirá um desenvolvimento organizado e eficiente, garantindo um sistema robusto e alinhado com as necessidades dos usuários atraves 
+dos seguintes estágios:
+Product Owner (PO): Onde são definidos os requisitos e funcionalidades essenciais, priorizando as necessidades do sistema.
+Scrum Master: Facilita o processo, garante o cumprimento das práticas SCRUM e remove impedimentos.
+Equipe de Desenvolvimento: Responsável pelo desenvolvimento, teste e implementação das funcionalidades do sistema.
 
 ### Administrador
 
