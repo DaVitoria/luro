@@ -94,6 +94,7 @@ Dentro da pasta acesse o cmd e digita
 Apos isso acesse este link: http://localhost:8025
 
 ### Testes
+Testes realizados na função __invoke na area de login.
 Abrir o terminal
 	```bash
 	php artisan serve
