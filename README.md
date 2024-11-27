@@ -55,7 +55,7 @@ realizar pagamentos e acompanhar as aulas ou baixar para uma revisão futura.
 
 O sistema para alem de fornecer um ambiente responsivo, permite o armazenamento de logs de autencicação
 no storage da aplicação, realiza uma transação
-segura de dados no cadastro e actualização dos cursos com base em trasações no banco de dados não só com
+segura de dados no cadastro e actualização dos cursos com base em transações no banco de dados não só com
 os observadores o sistema faz logs de auditoria nos cursos apenas.
 
 # Ferramentas
