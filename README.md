@@ -63,7 +63,7 @@ os observadores o sistema faz logs de auditoria nos cursos apenas.
 
 ###Comando para clonar o projecto no github
 ```bash
-git clone <<<link>>>
+git clone https://github.com/DaVitoria/luro.git
 ```
 
 ```bash
@@ -78,7 +78,10 @@ npm install
 #Passos de utilização
 
 ###Inicializaçao do servidor smtp
-Baixar a ferramenta aqui: https://google.com
+```bash
+Baixar a ferramenta aqui: https://mailpit.axllent.org/docs/install/
+```
+
 Dentro da pasta acesse o cmd e digita
 	```bash
 	mailpit.exe
@@ -91,4 +94,4 @@ Abrir o terminal
 	php artisan serve
 	php artisan test
 	```
-	Apos isso acesse este link: http://localhost:8000
+	Apos esta acção acesse este link: http://localhost:8000
