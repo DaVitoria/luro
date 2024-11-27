@@ -1,7 +1,7 @@
-#Projecto de Estágio
-##Proposta de um sistema de gestão de cursos online - Luro
+# Projecto de Estágio
+## Proposta de um sistema de gestão de cursos online - Luro
 
-#Descrição
+# Descrição
 
 O uso de tecologias no nosso país tende a ganhar mais aceitação 
 no seio da comunidade como na educação, saúde e demais sectores. 
@@ -22,29 +22,29 @@ por isso surge a ideia de se implementar um  sistema de  cursos online (Luro), o
 usuários tem a possibilidade de explora-lo em três níveis de acesso: 
 Administrador, Instrutor, Estudante
 
-###Administrador
+### Administrador
 
-####Autenticação
+#### Autenticação
 Com uma autencicação de dois factores e tambem baseada em tokens onde sao armazenados
 na base de dados e associados ao usuário, o administrador tem a possibilidade de criar 
 uma conta, gerenciar os instrutores  e avaliação dos cursos cadastrados 
 pelos mesmos para posterior aprovação ou reprovação com base nos termos e condições
 de uso do sistema.
 
-####Autorização
+#### Autorização
 O administrador tem a autorização de criar as categorias, avaliar os cursos e ter acesso aos
 instrutores apenas.
 
-###Instrutor
+### Instrutor
 
 ####Autorização
 Após passar pela autencicação de dois factores o instrutor é autorizado apenas a ter acesso completo das
 regras de gestão e avalição dos alunos subscritos nos cursos por ele criado, cadastro de modulos, aulas, 
 mareial de apoio,quizzes e questionários.
 
-###Estudante
+### Estudante
 
-####Autorização
+#### Autorização
 Após passar pela autencicação de dois factores o estudante é autorizado apenas a se subscrever no curso,
 realizar pagamentos e acompanhar as aulas ou baixar para uma revisão futura.
 
@@ -53,7 +53,7 @@ no storage da aplicação, realiza uma transação
 segura de dados no cadastro e actualização dos cursos com base em trasações no banco de dados não só com
 os observadores o sistema faz logs de auditoria nos cursos apenas.
 
-#Ferramentas
+# Ferramentas
 
 >>Laravel 11x, Framework
 >>Mailit v1.21.4, servidor smtp local
@@ -61,7 +61,7 @@ os observadores o sistema faz logs de auditoria nos cursos apenas.
 >>Sqlite, Gerencia do banco de dados
 #Instalação
 
-###Comando para clonar o projecto no github
+### Comando para clonar o projecto no github
 ```bash
 git clone https://github.com/DaVitoria/luro.git
 ```
@@ -75,9 +75,9 @@ php artisan migrate --seed
 npm install
 ```
 
-#Passos de utilização
+# Passos de utilização
 
-###Inicializaçao do servidor smtp
+### Inicializaçao do servidor smtp
 ```bash
 Baixar a ferramenta aqui: https://mailpit.axllent.org/docs/install/
 ```
@@ -88,7 +88,7 @@ Dentro da pasta acesse o cmd e digita
 	``` 
 Apos isso acesse este link: http://localhost:8025
 
-###Testes
+### Testes
 Abrir o terminal
 	```bash
 	php artisan serve
