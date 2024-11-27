@@ -21,6 +21,7 @@ zonas urbanas nos dias de alguns encontros em algumas plataformas de salas onlin
 por isso surge a ideia de se implementar um  sistema de  cursos online (Luro), onde os 
 usuários tem a possibilidade de explora-lo em três níveis de acesso: 
 Administrador, Instrutor, Estudante
+
 ## Metodogia de desenvolvimento 
 
 Baseado na metotologia Scrum permitirá um desenvolvimento organizado e eficiente, garantindo um sistema robusto e alinhado com as necessidades dos usuários atraves 
