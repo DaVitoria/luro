@@ -63,11 +63,15 @@ os observadores o sistema faz logs de auditoria nos cursos apenas.
 
 # Ferramentas
 
+### Autorizaçoes
+A lógica foi aplicada nas seguintes fases: Roles, Middlewere, Rotas e Controllers
+
 >>Laravel 11x, Framework
 >>Mailit v1.21.4, servidor smtp local
 >>PHP 8.2
 >>Sqlite, Gerencia do banco de dados
-#Instalação
+
+# Instalação
 
 ### Comando para clonar o projecto no github
 ```bash
